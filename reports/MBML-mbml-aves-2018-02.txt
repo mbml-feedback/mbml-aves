@@ -1,0 +1,155 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 171
+Number of records retrieved in searches: 1356
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 19
+	Country: Portugal ; Times: 112
+	Country: Mexico ; Times: 1
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 15
+	Country: Colombia ; Times: 12
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 63
+	Date: 2018-02-20 ; Times: 55
+	Date: 2018-02-28 ; Times: 4
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-02 ; Times: 5
+	Date: 2018-02-01 ; Times: 8
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-07 ; Times: 8
+	Date: 2018-02-06 ; Times: 5
+	Date: 2018-02-05 ; Times: 4
+	Date: 2018-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Anota" ; Times: 1
+	Query: "Columbina talpacoti mappable:1" ; Times: 4
+	Query: "catalognumber:447" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "ramphastos toco" ; Times: 12
+	Query: "Jacana jacana mappable:1" ; Times: 4
+	Query: "Aratinga aurea mappable:1" ; Times: 3
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "Paroaria coronata mappable:1" ; Times: 4
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "accipiter poliogaster" ; Times: 2
+	Query: "Mimus gilvus mappable:1" ; Times: 4
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus country:&#34;BraSil&#34;" ; Times: 1
+	Query: "Tyrannus savana mappable:1" ; Times: 4
+	Query: "Diopsittaca nobilis mappable:1" ; Times: 3
+	Query: "Primolius maracana mappable:1" ; Times: 3
+	Query: "Caracara plancus mappable:1" ; Times: 5
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 1
+	Query: "Falco femoralis mappable:1" ; Times: 4
+	Query: "Coragyps atratus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:melancholicus genus:TYrannus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:similis genus:Myiozetetes country:&#34;Brasil&#34;" ; Times: 2
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 9
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Estrilda astrild mappable:1" ; Times: 4
+	Query: "Paroaria dominicana mappable:1" ; Times: 4
+	Query: "patagioenas plumbea" ; Times: 1
+	Query: "lophornis" ; Times: 2
+	Query: "Sicalis flaveola mappable:1" ; Times: 4
+	Query: "Ara ararauna mappable:1" ; Times: 3
+	Query: "genus:Tyrannus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:434" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "Cairina moschata mappable:1" ; Times: 4
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 4
+	Query: "Cacicus cela mappable:1" ; Times: 4
+	Query: "Amazona amazonica mappable:1" ; Times: 3
+	Query: "locality:cerro galeras" ; Times: 1
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 4
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "Pionus maximiliani mappable:1" ; Times: 3
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 3
+	Query: "Grallaria varia" ; Times: 1
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "Zenaida auriculata mappable:1" ; Times: 4
+	Query: "Sicalis luteola mappable:1" ; Times: 4
+	Query: "Ara chloropterus mappable:1" ; Times: 3
+	Query: "Paroaria capitata mappable:1" ; Times: 4
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Pyrrhura frontalis mappable:1" ; Times: 3
+	Query: "Anhima cornuta basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aratinga leucophthalma mappable:1" ; Times: 3
+	Query: "Amazona farinosa mappable:1" ; Times: 3
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Guira guira mappable:1" ; Times: 4
+	Query: "Dendrocygna autumnalis mappable:1" ; Times: 3
+	Query: "Elanoides forficatus mappable:1" ; Times: 4
+	Query: "catalognumber:6020" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1892 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Brazil ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-06 ; Times: 4
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 4
+	Date: 2018-02-20 ; Times: 2
+	Date: 2018-02-05 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:minor genus:Chordeiles" ; Times: 1
+	Query: "coereba" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "ramphastos toco" ; Times: 4
+	Query: "specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 5
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Grallaria varia" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+	Query: "pyrrhura cruentata vntype:specimen" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Podilymbus podiceps basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
