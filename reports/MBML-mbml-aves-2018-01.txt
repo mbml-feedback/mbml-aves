@@ -1,0 +1,214 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1155
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 29
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 113
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-09 ; Times: 2
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-02 ; Times: 1
+	Date: 2018-01-03 ; Times: 1
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 44
+	Date: 2018-01-21 ; Times: 3
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-30 ; Times: 5
+	Date: 2018-01-22 ; Times: 14
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-31 ; Times: 2
+	Date: 2018-01-16 ; Times: 69
+	Date: 2018-01-20 ; Times: 3
+	Date: 2018-01-23 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensifera ensifera" ; Times: 3
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "Basileuterus culicivorus" ; Times: 1
+	Query: "Egretta thula" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "Nyctidromus albicollis" ; Times: 1
+	Query: "Amazilia tzacatl" ; Times: 1
+	Query: "Anhima cornuta vntype:specimen" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 1
+	Query: "Habia rubica" ; Times: 1
+	Query: "Amazilia candida" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Micrastur semitorquatus" ; Times: 1
+	Query: "Campylopterus  curvipennis" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "Campylopterus hemileucurus" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "Todirostrum cinereum" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Leptopogon amaurocephalus" ; Times: 1
+	Query: "porphyrio year &gt; 1990" ; Times: 1
+	Query: "Patagioenas speciosa" ; Times: 1
+	Query: "genus:Antilophia class:Aves" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Pardirallus maculatus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "Dysithamnus mentalis" ; Times: 1
+	Query: "Ardea alba" ; Times: 1
+	Query: "Spizaetus melanoleucus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Mionectes oleagineus" ; Times: 1
+	Query: "Attila spadiceus" ; Times: 1
+	Query: "Claravis pretiosa" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "catalognumber:1290" ; Times: 2
+	Query: "catalognumber:1044" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 2
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 2
+	Query: "Leptotila rufaxilla" ; Times: 1
+	Query: "Gubernatrix" ; Times: 1
+	Query: "Volatinia jacarina" ; Times: 1
+	Query: "Piaya cayana" ; Times: 1
+	Query: "Myiodynastes maculatus" ; Times: 1
+	Query: "Tyrannus melancholicus" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "Taraba major" ; Times: 1
+	Query: "Saltator maximus" ; Times: 1
+	Query: "Xenops minutus" ; Times: 1
+	Query: "Cyclarhis gujanensis" ; Times: 1
+	Query: "Geotrygon montana" ; Times: 1
+	Query: "Myiarchus tyrannulus" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Tolmomyias sulphurescens" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "Tityra inquisitor" ; Times: 1
+	Query: "Abeillia abeillei" ; Times: 1
+	Query: "Phaeochroa cuvierii" ; Times: 1
+	Query: "Toachi class:Aves" ; Times: 4
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 11
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "Glyphorynchus spirurus" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "specificepithet:choliba genus:Megascops mappable:1" ; Times: 1
+	Query: "Herpetotheres cachinnans" ; Times: 1
+	Query: "Elaenia flavogaster" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Patagioenas cayennensis" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "harpia harpyja" ; Times: 7
+	Query: "Molothrus oryzivorus" ; Times: 1
+	Query: "Sittasomus griseicapillus" ; Times: 1
+	Query: "Chordeiles acutipennis" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "catalognumber:4458" ; Times: 2
+	Query: "Micrastur ruficollis" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "Ciccaba virgata" ; Times: 1
+	Query: "(Guaiquinima)" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 1
+	Query: "Dendrocygna autumnalis autumnalis vntype:specimen" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Contopus cinereus" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Megarynchus pitangua" ; Times: 1
+	Query: "Pseudoscops clamator" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Tapera naevia" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "limeira" ; Times: 1
+	Query: "anhima cornuta" ; Times: 3
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Botaurus pinnatus" ; Times: 1
+	Query: "Myiozetetes similis" ; Times: 1
+	Query: "catalognumber:4208" ; Times: 1
+	Query: "Spizaetus tyrannus" ; Times: 1
+	Query: "Tringa solitaria" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "Cyanerpes cyaneus" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 1
+	Query: "Trogon collaris" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "veniliornis affinis" ; Times: 1
+	Query: "Chloroceryle americana" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Nyctibius grandis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1398 download events in this period)
+Total number of records downloaded: 174
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-25 ; Times: 1
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-22 ; Times: 2
+	Date: 2018-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Laterallus" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Donacobius" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "coereba flaveola" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+	Query: "&#34;Falco sparverius&#34; vntype:specimen" ; Times: 1
+	Query: "tropidurus torquatus" ; Times: 1
+	Query: "specificepithet:choliba genus:Megascops mappable:1" ; Times: 1
+
+
+End of report.
