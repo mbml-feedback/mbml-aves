@@ -1,0 +1,82 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 1101
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 13
+	Country: Finland ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 2
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-07 ; Times: 2
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-17 ; Times: 4
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-13 ; Times: 3
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-09 ; Times: 14
+	Date: 2017-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves country:brasil" ; Times: 1
+	Query: "aves AND chagas OR caetano" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 2
+	Query: "Malacoptila striata" ; Times: 1
+	Query: "nyctibius griseus month &gt;= 3 month &lt;= 7" ; Times: 2
+	Query: "genus:neopelma basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cayennensis family:Columbidae" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "Penelope obscura" ; Times: 2
+	Query: "knipolegus lophotes" ; Times: 2
+	Query: "Caprimulgus maculicaudus" ; Times: 1
+	Query: "4953 Aves" ; Times: 1
+	Query: "genus:neopelma" ; Times: 1
+	Query: "urubitinga coronata" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "nyctibius griseus month &gt;= 9 month &lt;= 12" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 6
+	Query: "aves AND chagas" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+	Query: "Rhynchotus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 674 download events in this period)
+Total number of records downloaded: 73
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 1
+	Date: 2017-12-17 ; Times: 2
+	Date: 2017-12-09 ; Times: 1
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "aves AND chagas OR caetano OR sobrinho OR guimaraes" ; Times: 1
+	Query: "aves AND sobrinho OR chagas OR guimaraes" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+
+
+End of report.
