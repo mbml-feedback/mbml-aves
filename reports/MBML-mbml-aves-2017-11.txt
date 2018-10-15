@@ -1,0 +1,59 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 3
+	Date: 2017-11-27 ; Times: 8
+	Date: 2017-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tersina viridis" ; Times: 1
+	Query: "genus:Cotinga" ; Times: 1
+	Query: "jaguar" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "locality:Chimanta" ; Times: 1
+	Query: "class:Aves locality:Chimanta" ; Times: 2
+	Query: "genus:Terenura" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1101 download events in this period)
+Total number of records downloaded: 39
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 4
+	Date: 2017-11-27 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Terenura" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+
+
+End of report.
