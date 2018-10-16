@@ -1,0 +1,144 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 96
+Number of records retrieved in searches: 647
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 27
+	Country: United States ; Times: 65
+	Country: Unknown ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 6
+	Date: 2018-03-07 ; Times: 2
+	Date: 2018-03-26 ; Times: 10
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 1
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-01 ; Times: 5
+	Date: 2018-03-02 ; Times: 3
+	Date: 2018-03-03 ; Times: 7
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-28 ; Times: 5
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-27 ; Times: 9
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 3
+	Date: 2018-03-23 ; Times: 17
+	Date: 2018-03-20 ; Times: 6
+	Date: 2018-03-21 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:fluvicola class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Empidonomus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "picumnus cirratus" ; Times: 3
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "genus:Columba specificepithet:livia" ; Times: 2
+	Query: "furnarius figulus" ; Times: 2
+	Query: "vntype:specimen genus:Pyrocephalus class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "leucippus chlorocercus" ; Times: 1
+	Query: "genus:Pilherodius" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "gymnoderus foetidus" ; Times: 1
+	Query: "Sporophila falcirostris" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "Saltator fuliginosus" ; Times: 2
+	Query: "Poospiza lateralis" ; Times: 4
+	Query: "genus:Jacana specificepithet:jacana" ; Times: 6
+	Query: "genus:Celeus specificepithet:flavus" ; Times: 6
+	Query: "sakesphorus canadensis" ; Times: 1
+	Query: "Sporophila ardesiaca" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Fluvicola class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Colonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Sporophila frontalis" ; Times: 3
+	Query: "attila spadiceus year &gt;= 1965 year &lt;= 2018" ; Times: 2
+	Query: "Accipiter poliogaster" ; Times: 1
+	Query: "genus:Phaethornis specificepithet:superciliosus" ; Times: 5
+	Query: "genus:oxyruncus" ; Times: 1
+	Query: "Lanio cristatus" ; Times: 1
+	Query: "gallinago undulata" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Tangara cyanoventris" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 6
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 5
+	Query: "specificepithet:lichtensteini class:AVES" ; Times: 1
+	Query: "Carpornis melanocephala" ; Times: 1
+	Query: "vntype:specimen genus:Myiophobus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "phaethornis rupurumii" ; Times: 1
+	Query: "topaza pella" ; Times: 2
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 2
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 5
+	Query: "Orchesticus abeillei" ; Times: 2
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 5
+	Query: "Neopelma" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1284 download events in this period)
+Total number of records downloaded: 293
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-12 ; Times: 3
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-07 ; Times: 1
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 5
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "furnarius figulus" ; Times: 1
+	Query: "leucippus chlorocercus" ; Times: 1
+	Query: "gymnoderus foetidus" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "sakesphorus canadensis" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 3
+	Query: "Lanio cristatus" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Ramphocaenus melanurus" ; Times: 1
+	Query: "phaethornis rupurumii" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "Eriocnemis" ; Times: 1
+
+
+End of report.
