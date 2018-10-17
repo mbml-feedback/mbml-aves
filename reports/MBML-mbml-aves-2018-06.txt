@@ -1,0 +1,157 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 126
+Number of records retrieved in searches: 324
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 88
+	Country: United States ; Times: 14
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-01 ; Times: 9
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-10 ; Times: 2
+	Date: 2018-06-18 ; Times: 8
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-04 ; Times: 1
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-19 ; Times: 55
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-26 ; Times: 2
+	Date: 2018-06-21 ; Times: 8
+	Date: 2018-06-20 ; Times: 10
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "catalognumber:7055 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:475 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:469 institutioncode:MBML" ; Times: 2
+	Query: "stateprovince:&#34;Espirito Santo&#34; catalognumber:7498 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; catalognumber:7437 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7508 institutioncode:MBML" ; Times: 2
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "(Jacutinga)" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 4
+	Query: "catalognumber:6689 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7315 institutioncode:MBML" ; Times: 2
+	Query: "Schistochlamys ruficapillus" ; Times: 1
+	Query: "catalognumber:7058 institutioncode:MBML" ; Times: 2
+	Query: "Harpia" ; Times: 1
+	Query: "stateprovince:&#34;Espirito Santo&#34; catalognumber:2680 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:1619 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:6933 institutioncode:MBML" ; Times: 2
+	Query: "stateprovince:&#34;Espirito Santo&#34; catalognumber:7672 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7602 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2680 institutioncode:MBML" ; Times: 1
+	Query: "genus:FORPUS stateprovince:&#34;Espirito Santo&#34; catalognumber:2671 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "specificepithet:rufigularis genus:Falco" ; Times: 1
+	Query: "catalognumber:7501 institutioncode:MBML" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 1
+	Query: "catalognumber:7477 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:1812 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "Hacienda la selva" ; Times: 1
+	Query: "catalognumber:6908 institutioncode:MBML" ; Times: 2
+	Query: "Cichlopsis" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "johannae" ; Times: 2
+	Query: "catalognumber:7053 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2580 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:1916 institutioncode:MBML" ; Times: 2
+	Query: "Campylorhynchus turdinus" ; Times: 2
+	Query: "catalognumber:7344 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:6825 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:3257 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:3245 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7662 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7343 institutioncode:MBML" ; Times: 2
+	Query: "aburria jacutinga" ; Times: 1
+	Query: "catalognumber:7534 institutioncode:MBML" ; Times: 2
+	Query: "neomorphus geoffroyi" ; Times: 3
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "catalognumber:2094 institutioncode:MBML" ; Times: 2
+	Query: "streptoprocne biscutata brazil" ; Times: 1
+	Query: "catalognumber:7132 institutioncode:MBML" ; Times: 1
+	Query: "chlorophonia cyanea" ; Times: 2
+	Query: "catalognumber:7178 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:2777 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:7492 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7596 institutioncode:MBML" ; Times: 1
+	Query: "specificepithet:grandis genus:Nyctibius stateprovince:&#34;Espirito Santo&#34; collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "Spizaetus" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "stateprovince:&#34;Espirito Santo&#34; catalognumber:2973 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:375 institutioncode:MBML" ; Times: 1
+	Query: "Chaetocercus berlepschi" ; Times: 4
+	Query: "specificepithet:griseus genus:Nyctibius stateprovince:&#34;Espirito Santo&#34; collectioncode:MBML-AVES institutioncode:MBML" ; Times: 1
+	Query: "specificepithet:harpyja genus:Harpia" ; Times: 3
+	Query: "JAGUAR" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "saltator similis" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "catalognumber:7504 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:6910 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:469 collectioncode:MBML-AVES institutioncode:MBML" ; Times: 2
+	Query: "eupetomena" ; Times: 2
+	Query: "catalognumber:1866 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "vntype:specimen genus:Cnemotriccus country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:2120 institutioncode:MBML" ; Times: 2
+	Query: "catalognumber:7630 institutioncode:MBML" ; Times: 2
+	Query: "vntype:specimen specificepithet:harpyja genus:Harpia" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1169 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 4
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-18 ; Times: 5
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chaetocercus berlepschi" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "caprimulgus parvulus" ; Times: 1
+	Query: "vntype:specimen specificepithet:lucifer genus:Calothorax country:&#34;México&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caprimulgus longirostris" ; Times: 1
+	Query: "elaenia parvirostris" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 3
+	Query: "lepidothrix" ; Times: 1
+
+
+End of report.
