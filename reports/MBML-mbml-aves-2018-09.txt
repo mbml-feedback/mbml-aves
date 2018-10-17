@@ -1,0 +1,95 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 222
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 13
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 3
+	Country: Finland ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-13 ; Times: 3
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 5
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-21 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:caparao" ; Times: 3
+	Query: "catalognumber:7371 institutioncode:MBML" ; Times: 1
+	Query: "Pterophanes" ; Times: 4
+	Query: "catalognumber:6825 institutioncode:MBML" ; Times: 2
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "specificepithet:undulata genus:Gallinago" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "neopelma aurifrons" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "specificepithet:ornatus genus:spizaetus" ; Times: 1
+	Query: "Aburria jacutinga" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "vntype:specimen genus:Cyanocorax class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Albiventer genus:Tachycineta" ; Times: 1
+	Query: "leptodon" ; Times: 1
+	Query: "Thlypopsis sordida" ; Times: 1
+	Query: "specificepithet:alinae" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "EMPIDONOMUS VARIUS" ; Times: 1
+	Query: "gallinago undulata" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "catalognumber:2241 institutioncode:MBML" ; Times: 2
+	Query: "jaguar" ; Times: 1
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "stateprovince:&#34;Minas Gerais&#34; institutioncode:MBML" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "specificepithet:cyanopus genus:Agelasticus" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 4
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 846 download events in this period)
+Total number of records downloaded: 20
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "egretta thula" ; Times: 2
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+
+
+End of report.
