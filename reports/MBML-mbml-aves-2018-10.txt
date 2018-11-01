@@ -1,0 +1,119 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 434
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 21
+	Country: Peru ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-10 ; Times: 5
+	Date: 2018-10-24 ; Times: 8
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-23 ; Times: 2
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-13 ; Times: 9
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-30 ; Times: 7
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:tapera genus:Progne class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "streptoprocne zonaris" ; Times: 1
+	Query: "Haplophaedia lugens" ; Times: 1
+	Query: "conirostrum bicolor" ; Times: 6
+	Query: "oxyruncus cristatus" ; Times: 1
+	Query: "genus:Hirundo class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "catalognumber:820 institutioncode:MBML" ; Times: 1
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Cyanoloxia" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "specificepithet:cyanea genus:chlorophonia" ; Times: 2
+	Query: "vntype:specimen genus:Riparia class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:heliornis" ; Times: 2
+	Query: "Heliomaster furcifer" ; Times: 2
+	Query: "vntype:specimen genus:Hirundo class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "oxyruncus cristatus brazil" ; Times: 2
+	Query: "Crypturellus parvirostris" ; Times: 3
+	Query: "streptoprocne biscutata" ; Times: 1
+	Query: "Patagioenas picazuro" ; Times: 2
+	Query: "Crypturellus variegatus" ; Times: 4
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:MBML basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Tachycineta class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Progne class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "brotogeris tirica vntype:specimen" ; Times: 2
+	Query: "vntype:specimen specificepithet:tapera class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus" ; Times: 1
+	Query: "vntype:specimen genus:Troglodytes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Tangara arthus" ; Times: 2
+	Query: "vntype:specimen specificepithet:subis genus:Progne class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Cypseloides senex" ; Times: 2
+	Query: "Linhares ES" ; Times: 1
+	Query: "Chalybura" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "vntype:specimen genus:STELGIDOPTERYX class:AVES country:&#34;BRASIL&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1300 download events in this period)
+Total number of records downloaded: 115
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 4
+	Country: Belgium ; Times: 2
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-29 ; Times: 1
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Tropidurus torquatus" ; Times: 1
+	Query: "specificepithet:musica genus:euphonia" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:MBML basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "aurea" ; Times: 1
+
+
+End of report.
