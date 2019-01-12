@@ -1,0 +1,88 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for December 2018, generated on 2019/01/12
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 284
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 6
+	Country: Peru ; Times: 10
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-26 ; Times: 1
+	Date: 2018-12-03 ; Times: 3
+	Date: 2018-12-20 ; Times: 1
+	Date: 2018-12-24 ; Times: 10
+	Date: 2018-12-08 ; Times: 2
+	Date: 2018-12-06 ; Times: 8
+	Date: 2018-12-04 ; Times: 2
+	Date: 2018-12-05 ; Times: 8
+	Date: 2018-12-11 ; Times: 9
+	Date: 2018-12-10 ; Times: 1
+	Date: 2018-12-13 ; Times: 2
+	Date: 2018-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glaucidium brasilianum" ; Times: 9
+	Query: "Brotogeris tirica mappable:1" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Curupi" ; Times: 1
+	Query: "Neomorphus geoffroyi mappable:1" ; Times: 2
+	Query: "Primolius maracana" ; Times: 1
+	Query: "vntype:specimen genus:Ramphocaenus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "Androdon aequatorialis" ; Times: 2
+	Query: "Harpia harpyja mappable:1" ; Times: 2
+	Query: "rupicola peruvianus" ; Times: 2
+	Query: "vntype:specimen specificepithet:longirostris genus:Thryothorus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Cichlocolaptes" ; Times: 2
+	Query: "curupi" ; Times: 1
+	Query: "Phaethornis idaliae mappable:1" ; Times: 8
+	Query: "gubernatrix" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Synallaxis cinerascens mappable:1" ; Times: 1
+	Query: "Geotrygon violacea mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Donacobius class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "loddigesia mirabilis" ; Times: 8
+	Query: "jaguar" ; Times: 1
+	Query: "specificepithet:glaucocaerulea genus:Cyanoloxia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 809 download events in this period)
+Total number of records downloaded: 2213
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: India ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-12-21 ; Times: 1
+	Date: 2018-12-19 ; Times: 1
+	Date: 2018-12-18 ; Times: 2
+	Date: 2018-12-31 ; Times: 2
+	Date: 2018-12-17 ; Times: 1
+	Date: 2018-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ramphastos" ; Times: 1
+	Query: "strigidae" ; Times: 1
+	Query: "Glaucidium brasilianum" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "family:trochilidae" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "specificepithet:glaucocaerulea genus:Cyanoloxia" ; Times: 1
+	Query: "specificepithet:livia genus:Columba" ; Times: 1
+
+
+End of report.
