@@ -1,0 +1,186 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 2151
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 100
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 53
+	Country: Colombia ; Times: 5
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-27 ; Times: 4
+	Date: 2019-02-04 ; Times: 18
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-13 ; Times: 90
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-26 ; Times: 1
+	Date: 2019-02-12 ; Times: 6
+	Date: 2019-02-15 ; Times: 7
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-16 ; Times: 3
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-08 ; Times: 29
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 4
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "leucippus chlorocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 2
+	Query: "Tityra cayana mappable:1" ; Times: 2
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "Tangara seledon mappable:1" ; Times: 2
+	Query: "Turdus amaurochalinus mappable:1" ; Times: 2
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "Lipaugus lanioides mappable:1" ; Times: 2
+	Query: "Amazona rhodocorytha" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "heliornis fulica" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "pardirallus maculatus" ; Times: 1
+	Query: "Celeus flavescens mappable:1" ; Times: 2
+	Query: "vntype:specimen genus:Mimus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Turdus leucomelas mappable:1" ; Times: 2
+	Query: "Orthogonys chloricterus mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:aves country:&#34;brasil&#34;" ; Times: 1
+	Query: "Jabiru mycteria mappable:1" ; Times: 2
+	Query: "1951-800" ; Times: 1
+	Query: "Turdus flavipes mappable:1" ; Times: 2
+	Query: "Certhiaxis cinnamomeus" ; Times: 1
+	Query: "Oxyruncus cristatus mappable:1" ; Times: 2
+	Query: "dendroplex" ; Times: 1
+	Query: "Trogon viridis mappable:1" ; Times: 2
+	Query: "Penelope obscura mappable:1" ; Times: 2
+	Query: "Lipaugus vociferans mappable:1" ; Times: 2
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Euphonia pectoralis mappable:1" ; Times: 2
+	Query: "Trogon rufus mappable:1" ; Times: 2
+	Query: "Crax blumenbachii mappable:1" ; Times: 2
+	Query: "Crax blumenbachii" ; Times: 1
+	Query: "Myrmotherula urosticta" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1" ; Times: 2
+	Query: "Tangara cyanoptera mappable:1" ; Times: 2
+	Query: "Penelope superciliaris mappable:1" ; Times: 2
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "Aburria jacutinga mappable:1" ; Times: 2
+	Query: "Tangara cyanocephala mappable:1" ; Times: 2
+	Query: "Cichlopsis leucogenys" ; Times: 1
+	Query: "Capsiempis flaveola" ; Times: 1
+	Query: "Selenidera maculirostris mappable:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "Tachyphonus coronatus mappable:1" ; Times: 2
+	Query: "Pteroglossus aracari mappable:1" ; Times: 2
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Carpornis melanocephala" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 1
+	Query: "Saltator similis mappable:1" ; Times: 2
+	Query: "Pyroderus scutatus mappable:1" ; Times: 2
+	Query: "Sporophila falcirostris" ; Times: 2
+	Query: "Coeligena prunellei" ; Times: 2
+	Query: "Pyrrhura leucotis" ; Times: 1
+	Query: "Aramides cajanea mappable:1" ; Times: 2
+	Query: "rhynchotus" ; Times: 3
+	Query: "specificepithet:rufigularis genus:Falco" ; Times: 1
+	Query: "Cacicus haemorrhous mappable:1" ; Times: 2
+	Query: "Lophornis gouldii" ; Times: 2
+	Query: "Sporophila maximiliani" ; Times: 2
+	Query: "Trogon surrucura mappable:1" ; Times: 2
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "Platyrinchus leucoryphus" ; Times: 2
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "Baryphthengus ruficapillus mappable:1" ; Times: 2
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Cyclarhis gujanensis mappable:1" ; Times: 1
+	Query: "catalognumber:2242 institutioncode:MBML" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Touit surdus" ; Times: 1
+	Query: "Carpornis melanocephala mappable:1" ; Times: 2
+	Query: "Tangara cayana mappable:1" ; Times: 2
+	Query: "Chaetocercus berlepschi" ; Times: 4
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Turdus albicollis mappable:1" ; Times: 1
+	Query: "Turdus rufiventris mappable:1" ; Times: 2
+	Query: "Tangara sayaca mappable:1" ; Times: 2
+	Query: "Myiodynastes maculatus mappable:1" ; Times: 2
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "Carpornis cucullata mappable:1" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Sporophila frontalis" ; Times: 2
+	Query: "Conirostrum bicolor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thripophaga macroura" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "Hylonympha macrocerca" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Eriocnemis nigrivestis" ; Times: 1
+	Query: "Thalassarche chlororhynchos" ; Times: 2
+	Query: "Ramphastos vitellinus mappable:1" ; Times: 2
+	Query: "Thalurania watertonii" ; Times: 1
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pionus maximiliani mappable:1" ; Times: 2
+	Query: "Dysithamnus plumbeus" ; Times: 1
+	Query: "Tangara palmarum mappable:1" ; Times: 2
+	Query: "Euphonia violacea mappable:1" ; Times: 2
+	Query: "myiobius atricaudus" ; Times: 1
+	Query: "pilherodius" ; Times: 1
+	Query: "Carpornis cucullata" ; Times: 1
+	Query: "Procnias nudicollis mappable:1" ; Times: 2
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1227 download events in this period)
+Total number of records downloaded: 109
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-21 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "leucippus chlorocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chaetocercus berlepschi" ; Times: 2
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "Conirostrum bicolor basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Sturnella class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brissonii genus:Cyanoloxia" ; Times: 1
+	Query: "harpia harpyja" ; Times: 1
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+
+
+End of report.
