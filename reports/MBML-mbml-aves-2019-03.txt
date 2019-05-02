@@ -1,0 +1,163 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 124
+Number of records retrieved in searches: 1005
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 46
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 36
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 31
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 9
+	Date: 2019-03-26 ; Times: 30
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 4
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-22 ; Times: 3
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-18 ; Times: 2
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-17 ; Times: 8
+	Date: 2019-03-14 ; Times: 18
+	Date: 2019-03-15 ; Times: 13
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 3
+	Date: 2019-03-11 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "ara ararauna" ; Times: 7
+	Query: "Threnetes niger" ; Times: 7
+	Query: "picumnus cirratus" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 2
+	Query: "Laniisoma elegans" ; Times: 1
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "specificepithet:cyanoventris genus:tangara" ; Times: 1
+	Query: "Leptodon cayanensis mappable:1" ; Times: 1
+	Query: "Lophornis verreauxii" ; Times: 2
+	Query: "Chaetocercus jourdanii" ; Times: 2
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 2
+	Query: "Agelasticus cyanopus" ; Times: 1
+	Query: "class:Aves catalognumber:1281" ; Times: 1
+	Query: "nyctibius grandis" ; Times: 1
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 4
+	Query: "vntype:specimen genus:Anthus class:AVES country:&#34;bRASIL&#34;" ; Times: 1
+	Query: "Vanellus chilensis mappable:1" ; Times: 1
+	Query: "Celeus flavus" ; Times: 1
+	Query: "vntype:specimen genus:Ammodramus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 5
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 1
+	Query: "Primolius maracana" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 1
+	Query: "Neomorphus geoffroyi" ; Times: 2
+	Query: "Dendrocincla turdina mappable:1" ; Times: 1
+	Query: "Deroptyus accipitrinus mappable:1" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 2
+	Query: "Orthogonys chloricterus" ; Times: 2
+	Query: "Lophornis magnificus" ; Times: 2
+	Query: "Cochlearius cochlearius year &gt; 1990 NOT clo" ; Times: 1
+	Query: "Odontophorus capueira mappable:1" ; Times: 1
+	Query: "Ilicura militaris mappable:1" ; Times: 1
+	Query: "Phaethornis idaliae mappable:1" ; Times: 1
+	Query: "Penelope superciliaris mappable:1" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "jabiru mycteria" ; Times: 2
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "nyctibius aethereus" ; Times: 1
+	Query: "Chaetocercus berlepschi" ; Times: 8
+	Query: "Campylopterus duidae" ; Times: 1
+	Query: "Xiphorhynchus fuscus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficollis genus:micrastur" ; Times: 2
+	Query: "Pardirallus nigricans mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:1396" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 1
+	Query: "aburria aburria" ; Times: 1
+	Query: "Fluvicola nengeta mappable:1" ; Times: 1
+	Query: "Heliangelus spencei" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Patagioenas cayennensis mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Myospiza class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Coeligena conradii" ; Times: 4
+	Query: "jaguar" ; Times: 3
+	Query: "Patagioenas plumbea mappable:1" ; Times: 1
+	Query: "Sterna hirundinacea mappable:1" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "vntype:specimen genus:Zonotrichia class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 1
+	Query: "Malacoptila striata mappable:1" ; Times: 1
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 1
+	Query: "Procellaria aequinoctialis" ; Times: 1
+	Query: "vntype:specimen genus:Arremon class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 3
+	Query: "Primolius maracana mappable:1" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1281 download events in this period)
+Total number of records downloaded: 139
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: United Kingdom ; Times: 11
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-17 ; Times: 6
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliangelus spencei" ; Times: 1
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "Psarocolius decumanus" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "Icterus jamacaii" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "Agelasticus cyanopus" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Campylopterus duidae" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 1
+	Query: "Orthogonys chloricterus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+
+
+End of report.
