@@ -1,0 +1,167 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 133
+Number of records retrieved in searches: 1164
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 95
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Denmark ; Times: 6
+	Country: United States ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-30 ; Times: 15
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-09 ; Times: 6
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-07 ; Times: 4
+	Date: 2019-05-06 ; Times: 4
+	Date: 2019-05-05 ; Times: 4
+	Date: 2019-05-04 ; Times: 3
+	Date: 2019-05-03 ; Times: 16
+	Date: 2019-05-02 ; Times: 8
+	Date: 2019-05-01 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 2
+	Date: 2019-05-26 ; Times: 8
+	Date: 2019-05-21 ; Times: 8
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-29 ; Times: 7
+	Date: 2019-05-28 ; Times: 14
+	Date: 2019-05-19 ; Times: 1
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-14 ; Times: 4
+	Date: 2019-05-15 ; Times: 9
+	Date: 2019-05-16 ; Times: 3
+	Date: 2019-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "odontophorus" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "Hirundinea ferruginea" ; Times: 1
+	Query: "Mimus saturninus mappable:1" ; Times: 1
+	Query: "spixi" ; Times: 2
+	Query: "dendrocincla turdina" ; Times: 2
+	Query: "odontophorus capueira" ; Times: 2
+	Query: "Haplophaedia" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "donacobius atricapilla" ; Times: 2
+	Query: "Chloroceryle amazona mappable:1" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Oryzoborus maximiliani mappable:1" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "vntype:specimen genus:cacicus class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Aburria jacutinga mappable:1" ; Times: 3
+	Query: "specificepithet:lichtensteini genus:Philydor" ; Times: 1
+	Query: "Sclerurus mexicanus year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Furnarius rufus mappable:1" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 1
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "Primolius maracana" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:frontalis genus:synallaxis" ; Times: 1
+	Query: "Cichlopsis leucogenys" ; Times: 1
+	Query: "Crypturellus tataupa mappable:1" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "rupicola peruvianus" ; Times: 1
+	Query: "Amazilia lactea lactea" ; Times: 2
+	Query: "vntype:specimen specificepithet:haemorrhous genus:Cacicus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Loddigesia mirabilis" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 1
+	Query: "Formicivora grisea vntype:specimen year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Gallinula chloropus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Cariama cristata year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 2
+	Query: "Piprites chloris year &gt; 1990 NOT CLO NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Cypseloides fumigatus" ; Times: 1
+	Query: "pygochelidon cyanoleuca" ; Times: 1
+	Query: "EUTOXERES AQUILA" ; Times: 2
+	Query: "eupetomena macroura" ; Times: 3
+	Query: "vntype:specimen specificepithet:frontalis genus:synallaxis" ; Times: 1
+	Query: "Amazonetta brasiliensis mappable:1" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 2
+	Query: "Tyrannus savana mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Lophornis chalybeus" ; Times: 1
+	Query: "Fluvicola nengeta mappable:1" ; Times: 1
+	Query: "Myiophobus fasciatus mappable:1 year&gt;=1988 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 1
+	Query: "spheniscus magellanicus" ; Times: 1
+	Query: "celeus flavescens" ; Times: 1
+	Query: "Formicivora grisea year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Chamaeza meruloides" ; Times: 1
+	Query: "Cochlearius cochlearius year &gt; 1985 NOT CLO NOT &#34;Nature Kenya&#34;" ; Times: 1
+	Query: "ouro preto" ; Times: 5
+	Query: "caprimulgus rufus" ; Times: 2
+	Query: "Grallaria varia year &gt; 1990 NOT clo NOT &#34;nature kenya&#34;" ; Times: 1
+	Query: "Sporophila maximiliani mappable:1" ; Times: 2
+	Query: "genus:Terenura" ; Times: 1
+	Query: "cyclarhis gujanensis" ; Times: 2
+	Query: "Amazilia brevirostris" ; Times: 2
+	Query: "Penelope obscura mappable:1" ; Times: 5
+	Query: "Odontophorus capueira" ; Times: 2
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Galbula ruficauda mappable:1" ; Times: 1
+	Query: "lophornis chalybeus" ; Times: 1
+	Query: "genus:cacicus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Cacicus class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Chalcostigma herrani" ; Times: 1
+	Query: "penelope obscura" ; Times: 1
+	Query: "genus:Corythopis" ; Times: 1
+	Query: "piprites chloris" ; Times: 3
+	Query: "Ara ararauna" ; Times: 3
+	Query: "Dendrocincla turdina mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Goiás&#34; country:&#34;Brasil&#34;" ; Times: 3
+	Query: "Dendrocincla turdina" ; Times: 22
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 940 download events in this period)
+Total number of records downloaded: 49
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-21 ; Times: 1
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Amazilia brevirostris" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Amazilia tobaci" ; Times: 1
+	Query: "Formicivora grisea year &gt;= 1965 year &lt;= 2019" ; Times: 1
+	Query: "Formicivora grisea vntype:specimen year &gt;= 1965 year &lt;= 2019" ; Times: 1
+
+
+End of report.
