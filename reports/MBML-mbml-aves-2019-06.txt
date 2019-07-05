@@ -1,0 +1,188 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 1047
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 37
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 47
+	Country: Germany ; Times: 2
+	Country: Chile ; Times: 4
+	Country: Belgium ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-21 ; Times: 14
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-24 ; Times: 1
+	Date: 2019-06-18 ; Times: 6
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-06 ; Times: 8
+	Date: 2019-06-07 ; Times: 3
+	Date: 2019-06-04 ; Times: 3
+	Date: 2019-06-16 ; Times: 2
+	Date: 2019-06-11 ; Times: 31
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 6
+	Date: 2019-06-28 ; Times: 2
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-12 ; Times: 6
+	Date: 2019-06-26 ; Times: 11
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "xiphorhynchus fuscus" ; Times: 2
+	Query: "Basileuterus culicivorus" ; Times: 1
+	Query: "Accipiter bicolor mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:2496 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "genus:Deroptyus specificepithet:accipitrinus" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "Carpornis" ; Times: 4
+	Query: "catalognumber:2342" ; Times: 1
+	Query: "Amazilia leucogaster" ; Times: 1
+	Query: "genus:Emberizoides specificepithet:herbicola" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:pareola" ; Times: 1
+	Query: "genus:Lophornis specificepithet:gouldii" ; Times: 1
+	Query: "genus:Manacus specificepithet:manacus" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 2
+	Query: "jaguar" ; Times: 4
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 2
+	Query: "genus:Dendrocygna specificepithet:autumnalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:lateralis genus:Poospiza class:Aves" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Turdus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Pipra specificepithet:pipra" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanirostris genus:Knipolegus class:Aves" ; Times: 1
+	Query: "genus:Notharchus specificepithet:macrorhynchos" ; Times: 1
+	Query: "Amazona amazonica mappable:1" ; Times: 1
+	Query: "harpia" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "genus:Ilicura specificepithet:militaris" ; Times: 1
+	Query: "Cichlopsis leucogenys" ; Times: 2
+	Query: "Gallinula chloropus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves" ; Times: 1
+	Query: "genus:Celeus specificepithet:flavus" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavipes genus:Turdus class:Aves" ; Times: 1
+	Query: "genus:Lipaugus specificepithet:vociferans" ; Times: 1
+	Query: "Agelasticus cyanopus mappable:1" ; Times: 1
+	Query: "genus:Chordeiles specificepithet:acutipennis" ; Times: 1
+	Query: "Butorides striata" ; Times: 1
+	Query: "Myiophobus fasciatus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Sula specificepithet:dactylatra" ; Times: 1
+	Query: "Tyrannus savana mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "Amazilia fimbriata mappable:1" ; Times: 1
+	Query: "genus:Spheniscus specificepithet:magellanicus" ; Times: 1
+	Query: "genus:Rhynchotus specificepithet:rufescens" ; Times: 1
+	Query: "Arundinicola leucocephala" ; Times: 1
+	Query: "genus:Aratinga specificepithet:leucophthalma" ; Times: 1
+	Query: "vntype:specimen specificepithet:obscura genus:Elaenia class:Aves" ; Times: 1
+	Query: "genus:Chloroceryle specificepithet:americana" ; Times: 1
+	Query: "genus:Schiffornis specificepithet:turdina" ; Times: 1
+	Query: "vntype:specimen specificepithet:lalandi genus:Stephanoxis class:Aves" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "vntype:specimen specificepithet:glaucopis genus:Thalurania class:Aves" ; Times: 1
+	Query: "genus:Jacana specificepithet:jacana" ; Times: 1
+	Query: "genus:Chelidoptera specificepithet:tenebrosa" ; Times: 1
+	Query: "genus:Coereba" ; Times: 1
+	Query: "harpia harpyja" ; Times: 2
+	Query: "genus:Estrilda specificepithet:astrild" ; Times: 1
+	Query: "genus:Veniliornis specificepithet:affinis" ; Times: 1
+	Query: "Amazona farinosa vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cichlopsis specificepithet:leucogenys" ; Times: 1
+	Query: "genus:Phaethornis specificepithet:superciliosus" ; Times: 1
+	Query: "vntype:specimen genus:Icterus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Amazilia versicolor mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Leucochloris class:Aves" ; Times: 1
+	Query: "genus:Ardea specificepithet:alba" ; Times: 1
+	Query: "nemosia pileata" ; Times: 2
+	Query: "Amazilia brevirostris" ; Times: 1
+	Query: "Amazilia chionopectus" ; Times: 1
+	Query: "vntype:specimen genus:Haplospiza class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:mesoleuca genus:Elaenia class:Aves" ; Times: 1
+	Query: "genus:Furnarius specificepithet:rufus" ; Times: 1
+	Query: "class:Aves catalognumber:3967 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophornis" ; Times: 1
+	Query: "Thraupis episcopus" ; Times: 3
+	Query: "Botaurus pinnatus" ; Times: 1
+	Query: "genus:Glaucidium specificepithet:brasilianum" ; Times: 1
+	Query: "genus:Micrastur specificepithet:ruficollis" ; Times: 1
+	Query: "genus:Nyctidromus specificepithet:albicollis" ; Times: 1
+	Query: "Ardea cocoi" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "genus:Nyctibius specificepithet:griseus" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "Brotogeris tirica" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Ouro Preto" ; Times: 1
+	Query: "genus:Florisuga specificepithet:mellivora" ; Times: 1
+	Query: "Pionus menstruus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spheniscus magellanicus mappable:1 year&gt;=1950 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "vntype:specimen specificepithet:unicolor genus:Haplospiza class:Aves" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1182 download events in this period)
+Total number of records downloaded: 556
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 27
+	Country: Colombia ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-08 ; Times: 3
+	Date: 2019-06-06 ; Times: 5
+	Date: 2019-06-29 ; Times: 1
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-03 ; Times: 3
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-26 ; Times: 20
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:mesoleuca genus:Elaenia class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufosuperciliata genus:Syndactyla class:Aves" ; Times: 1
+	Query: "Chiroxiphia caudata" ; Times: 1
+	Query: "cathartes aura" ; Times: 2
+	Query: "vntype:specimen specificepithet:culicivorus genus:Basileuterus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:lalandi genus:Stephanoxis class:Aves" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 1
+	Query: "vntype:specimen specificepithet:glaucopis genus:Thalurania class:Aves" ; Times: 1
+	Query: "Oreotrochilus chimborazo" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavipes genus:Turdus class:Aves" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Carpornis" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Turdus class:Aves" ; Times: 1
+	Query: "Amazilia leucogaster" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucomelas genus:Turdus class:Aves" ; Times: 4
+	Query: "vntype:specimen specificepithet:diadematus genus:Stephanophorus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Athene" ; Times: 1
+	Query: "vntype:specimen specificepithet:albicollis genus:Leucochloris class:Aves" ; Times: 1
+	Query: "jaguar" ; Times: 2
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Amazilia brevirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:lateralis genus:Poospiza class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:unicolor genus:Haplospiza class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventris genus:Turdus class:Aves" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Turdus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:obscura genus:Elaenia class:Aves" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanirostris genus:Knipolegus class:Aves" ; Times: 1
+
+
+End of report.
