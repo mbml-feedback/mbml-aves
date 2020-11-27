@@ -1,0 +1,99 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 50
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 19
+	Country: Argentina ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 5
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-19 ; Times: 6
+	Date: 2020-01-05 ; Times: 5
+	Date: 2020-01-28 ; Times: 6
+	Date: 2020-01-21 ; Times: 2
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-09 ; Times: 3
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen genus:chlorophanes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Oryzoborus maximiliani vntype:specimen" ; Times: 2
+	Query: "megascops atricapilla" ; Times: 8
+	Query: "eulampis jugularis" ; Times: 3
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "specificepithet:platycercus genus:selasphorus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "claravis godefrida" ; Times: 2
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;BraSil&#34;" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Eulampis jugularis" ; Times: 2
+	Query: "specificepithet:serrirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavicollis genus:Hemithraupis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "specificepithet:leucophrus genus:Cichlocolaptes" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Megascops atricapilla" ; Times: 2
+	Query: "sclerurus caudacutus" ; Times: 7
+	Query: "piaya cayana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Sporophila maximiliani vntype:specimen" ; Times: 1
+	Query: "philydor rufum" ; Times: 1
+	Query: "touit" ; Times: 2
+	Query: "Cichlocolaptes leucophrus" ; Times: 2
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1584 download events in this period)
+Total number of records downloaded: 105
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-28 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "touit" ; Times: 1
+
+
+End of report.
