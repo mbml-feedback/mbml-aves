@@ -1,0 +1,96 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 815
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-23 ; Times: 3
+	Date: 2020-05-03 ; Times: 3
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-14 ; Times: 7
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:frontalis genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;BraSil&#34;" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 5
+	Query: "Thalassarche chlororhynchos" ; Times: 1
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "ilicura militaris" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "genus:Dacnis country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+	Query: "specificepithet:Insignis genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "amazona rhodocorytha" ; Times: 1
+	Query: "vntype:specimen genus:Tiaris class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Anas bahamensis" ; Times: 1
+	Query: "vntype:specimen genus:coereba class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lineola genus:sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricollis genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 2
+	Query: "vntype:specimen genus:Dacnis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "stateprovince:&#34;Santa Catarina&#34; country:&#34;Brasil&#34;" ; Times: 1
+	Query: "pachyptila vittata" ; Times: 3
+	Query: "vntype:specimen specificepithet:collaris genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lineola genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ardesiaca genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcirostris genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1106 download events in this period)
+Total number of records downloaded: 6742
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-06 ; Times: 3
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Goiás vntype:specimen class:Aves" ; Times: 1
+	Query: "automolus leucophthalmus" ; Times: 1
+	Query: "specificepithet:militaris genus:Ilicura" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brasil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 1
+
+
+End of report.
