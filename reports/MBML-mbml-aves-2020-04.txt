@@ -1,0 +1,151 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 267
+Number of records retrieved in searches: 3310
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 7
+	Country: Cuba ; Times: 2
+	Country: Unknown ; Times: 7
+	Country: United Kingdom ; Times: 221
+	Country: Sweden ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-07 ; Times: 102
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-03 ; Times: 48
+	Date: 2020-04-06 ; Times: 3
+	Date: 2020-04-14 ; Times: 10
+	Date: 2020-04-22 ; Times: 7
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-20 ; Times: 8
+	Date: 2020-04-21 ; Times: 60
+	Date: 2020-04-01 ; Times: 12
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 3
+	Date: 2020-04-08 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Crax blumenbachii" ; Times: 3
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Amazilia lactea" ; Times: 4
+	Query: "Ardea alba" ; Times: 9
+	Query: "genus:antilophia" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 4
+	Query: "Tachycineta albiventer" ; Times: 7
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "nyctibius griseus" ; Times: 6
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ortalis guttata" ; Times: 3
+	Query: "Amazilia beryllina" ; Times: 3
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 2
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "F. domesticus" ; Times: 5
+	Query: "genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "year &gt;= 1990 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 6
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Thraupis episcopus" ; Times: 5
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "caprimulgus maculicaudus" ; Times: 2
+	Query: "vntype:specimen genus:tersina class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Poospiza lateralis" ; Times: 3
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "Saltator similis" ; Times: 5
+	Query: "specificepithet:cyanirostris genus:Knipolegus" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "Amazilia millerii" ; Times: 3
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Tangara cayana" ; Times: 2
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "year &gt;= 1960 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chondrohierax" ; Times: 2
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "maracana" ; Times: 1
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "Butorides striata" ; Times: 9
+	Query: "Agelasticus cyanopus" ; Times: 2
+	Query: "Doryfera johannae" ; Times: 3
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 3
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Amazilia rondoniae" ; Times: 3
+	Query: "Benjamin Constant" ; Times: 1
+	Query: "Amazilia brevirostris" ; Times: 3
+	Query: "specificepithet:bicolor genus:conirostrum" ; Times: 1
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "claravis godefrida" ; Times: 2
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "Gallinago paraguaiae" ; Times: 6
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "mangle" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 3
+	Query: "Geranospiza caerulescens" ; Times: 9
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1171 download events in this period)
+Total number of records downloaded: 90
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 5
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 2
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-22 ; Times: 3
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Gallinago undulata" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+
+
+End of report.
