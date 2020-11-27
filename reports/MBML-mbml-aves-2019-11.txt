@@ -1,0 +1,112 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 69
+Number of records retrieved in searches: 913
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Netherlands ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 44
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 4
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-08 ; Times: 2
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-06 ; Times: 7
+	Date: 2019-11-07 ; Times: 6
+	Date: 2019-11-04 ; Times: 10
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-01 ; Times: 3
+	Date: 2019-11-15 ; Times: 1
+	Date: 2019-11-27 ; Times: 1
+	Date: 2019-11-14 ; Times: 5
+	Date: 2019-11-26 ; Times: 5
+	Date: 2019-11-24 ; Times: 3
+	Date: 2019-11-12 ; Times: 3
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-25 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Heliangelus strophianus" ; Times: 7
+	Query: "heliangelus spencei" ; Times: 1
+	Query: "vntype:specimen specificepithet:ornata class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 3
+	Query: "heliangelus mavors" ; Times: 5
+	Query: "Coccyzus americanus 1972" ; Times: 4
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanoptera class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:palmarum class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Heliangelus mavors vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 4
+	Query: "vntype:specimen genus:Nemosia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "heliangelus spencei vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 8
+	Query: "panterpe insignis" ; Times: 1
+	Query: "Columbina picui" ; Times: 2
+	Query: "johannae" ; Times: 2
+	Query: "Tangara cayana" ; Times: 1
+	Query: "genus:cyanoloxia" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca genus:Thraupis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "heliangelus mavors vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "genus:odontophorus" ; Times: 1
+	Query: "Heliangelus mavors vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca genus:Tangara class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "jaguar" ; Times: 2
+	Query: "specificepithet:dohrnii genus:glaucis" ; Times: 3
+	Query: "vntype:specimen genus:Thraupis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Chordeiles acutipennis year &gt; 1990" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Coccyzus americanus 2015" ; Times: 1
+	Query: "specificepithet:cayana genus:Tangara class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1367 download events in this period)
+Total number of records downloaded: 136
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-06 ; Times: 6
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Cathartiformes" ; Times: 2
+	Query: "camptostoma obsoletum" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "oreotrochilus leucopleurus" ; Times: 1
+	Query: "panterpe insignis" ; Times: 1
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "order:Ciconiiformes" ; Times: 1
+	Query: "Polytmus theresiae leucorrhous" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+
+
+End of report.
