@@ -1,0 +1,133 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 854
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 24
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 43
+	Country: Japan ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-12 ; Times: 3
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-22 ; Times: 1
+	Date: 2019-12-02 ; Times: 6
+	Date: 2019-12-18 ; Times: 18
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 6
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-04 ; Times: 71
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tyrianthina genus:Metallura mappable:1" ; Times: 1
+	Query: "specificepithet:lutetiae genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:prunellei genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia mappable:1" ; Times: 1
+	Query: "specificepithet:iris genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:amaurotis genus:Anabacerthia mappable:1" ; Times: 1
+	Query: "regulus brazil" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "vntype:specimen genus:Haplospiza class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena mappable:1" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 3
+	Query: "accipiter poliogaster" ; Times: 24
+	Query: "specificepithet:albicollis genus:Xiphocolaptes mappable:1" ; Times: 1
+	Query: "eulampis" ; Times: 1
+	Query: "specificepithet:dominicana genus:Paroaria mappable:1" ; Times: 1
+	Query: "specificepithet:inda genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "specificepithet:bonapartei genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "vntype:specimen genus:Sicalis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:caesius genus:Thamnomanes mappable:1" ; Times: 1
+	Query: "specificepithet:torquata genus:Coeligena mappable:1" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 3
+	Query: "specificepithet:kingii genus:Aglaiocercus mappable:1" ; Times: 1
+	Query: "specificepithet:saracura genus:Aramides mappable:1" ; Times: 1
+	Query: "ara ararauna" ; Times: 1
+	Query: "specificepithet:cupreoventris genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "specificepithet:capitata genus:Paroaria mappable:1" ; Times: 1
+	Query: "specificepithet:vestita genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 3
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:wilsoni genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:matthewsii genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "specificepithet:mosquera genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:sicalis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ramphodon vntype:specimen" ; Times: 6
+	Query: "specificepithet:coelestis genus:Aglaiocercus mappable:1" ; Times: 1
+	Query: "specificepithet:williami genus:Metallura mappable:1" ; Times: 1
+	Query: "NA mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "specificepithet:nigrivestis genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Androdon vntype:specimen" ; Times: 8
+	Query: "Opisthoprora" ; Times: 1
+	Query: "specificepithet:nigricans genus:Pardirallus mappable:1" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "vntype:specimen genus:Conirostrum class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:cupripennis genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "specificepithet:minutus genus:Xenops mappable:1" ; Times: 1
+	Query: "Megascops atricapilla" ; Times: 3
+	Query: "coeligena iris" ; Times: 2
+	Query: "specificepithet:rutilans genus:Xenops mappable:1" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "specificepithet:mangle genus:Aramides mappable:1" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria mappable:1" ; Times: 1
+	Query: "Opisthoprora vntype:specimen" ; Times: 3
+	Query: "specificepithet:maculatus genus:Pardirallus mappable:1" ; Times: 1
+	Query: "claravis godefrida" ; Times: 3
+	Query: "specificepithet:speluncae genus:Scytalopus mappable:1" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Pyriglena mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:Myrmotherula mappable:1" ; Times: 1
+	Query: "specificepithet:figulus genus:Furnarius mappable:1" ; Times: 1
+	Query: "specificepithet:rufus genus:Furnarius mappable:1" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "megascops atricapilla" ; Times: 1
+	Query: "anhima cornuta" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 596 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+
+
+End of report.
