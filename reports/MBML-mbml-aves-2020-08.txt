@@ -1,0 +1,227 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 206
+Number of records retrieved in searches: 1699
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 139
+	Country: Portugal ; Times: 30
+	Country: United Kingdom ; Times: 12
+	Country: Chile ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-28 ; Times: 5
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-11 ; Times: 45
+	Date: 2020-08-10 ; Times: 66
+	Date: 2020-08-12 ; Times: 45
+	Date: 2020-08-13 ; Times: 4
+	Date: 2020-08-18 ; Times: 7
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-29 ; Times: 5
+	Date: 2020-08-21 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:guainumbi" ; Times: 1
+	Query: "specificepithet:buffonii genus:Chalybura" ; Times: 2
+	Query: "specificepithet:mellisugus genus:Chlorostilbon" ; Times: 2
+	Query: "cypseloides fumigatus" ; Times: 1
+	Query: "specificepithet:rubinoides genus:Heliodoxa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:chimborazo genus:Oreotrochilus" ; Times: 1
+	Query: "vntype:specimen genus:Caryothraustes class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "specificepithet:chalybeus genus:Lophornis" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis luteola" ; Times: 1
+	Query: "specificepithet:Poortmani genus:Chlorostilbon" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia" ; Times: 1
+	Query: "mappable:1 scientificname:Zenaida auriculata" ; Times: 1
+	Query: "specificepithet:julie genus:Damophila" ; Times: 1
+	Query: "specificepithet:mirabilis genus:Loddigesia" ; Times: 1
+	Query: "specificepithet:alinae genus:Eriocnemis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:leadbeateri genus:Heliodoxa country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cyanoloxia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "specificepithet:lumachella genus:Augastes" ; Times: 1
+	Query: "specificepithet:heteropogon genus:Chalcostigma" ; Times: 2
+	Query: "specificepithet:insignis genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia" ; Times: 1
+	Query: "mappable:1 scientificname:Ara ararauna" ; Times: 1
+	Query: "mappable:1 scientificname:Guira guira" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "mappable:1 scientificname:Falco femoralis" ; Times: 1
+	Query: "vntype:specimen genus:ESTRILDA class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Oxypogon" ; Times: 1
+	Query: "vntype:specimen specificepithet:musica genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:chimborazo genus:Oreotrochilus family:Trochilidae" ; Times: 1
+	Query: "genus:Lafresnaya country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:mellisugus genus:Chlorostilbon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Augastes" ; Times: 3
+	Query: "specificepithet:assimilis genus:Chlorostilbon" ; Times: 1
+	Query: "specificepithet:melanogenys genus:Adelomyia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:tzacatl genus:Amazilia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:mavors genus:Heliangelus" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "mappable:1 scientificname:Aratinga aurea" ; Times: 1
+	Query: "specificepithet:jourdanii genus:Chaetocercus" ; Times: 3
+	Query: "F. domesticus" ; Times: 1
+	Query: "specificepithet:langsdorffi genus:Discosura" ; Times: 1
+	Query: "mappable:1 scientificname:Cairina moschata" ; Times: 1
+	Query: "Cichlopsis leucogenys" ; Times: 2
+	Query: "vntype:specimen specificepithet:xanthogaster genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:notatus genus:Chlorestes" ; Times: 1
+	Query: "specificepithet:colombica genus:Thalurania country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Stephanoxis" ; Times: 1
+	Query: "specificepithet:microrhynchum genus:Ramphomicron" ; Times: 1
+	Query: "mappable:1 scientificname:Pionus maximiliani" ; Times: 1
+	Query: "specificepithet:dohrnii genus:Glaucis" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 2
+	Query: "specificepithet:bonapartei genus:Coeligena" ; Times: 6
+	Query: "genus:Augastes institutioncode:MBML" ; Times: 1
+	Query: "specificepithet:delattrei genus:Lophornis" ; Times: 1
+	Query: "specificepithet:iris genus:Coeligena" ; Times: 2
+	Query: "specificepithet:idaliae genus:Phaethornis" ; Times: 1
+	Query: "specificepithet:insignis genus:Panterpe" ; Times: 1
+	Query: "specificepithet:alice genus:Chlorostilbon" ; Times: 1
+	Query: "specificepithet:scutatus genus:Augastes" ; Times: 1
+	Query: "specificepithet:gibsoni genus:Chlorostilbon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Passer class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Mimus gilvus" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona amazonica" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 1
+	Query: "specificepithet:goudoti genus:Lepidopyga" ; Times: 1
+	Query: "specificepithet:microrhynchum genus:Ramphomicron country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona farinosa" ; Times: 1
+	Query: "genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria capitata" ; Times: 1
+	Query: "Urochroa bougueri" ; Times: 2
+	Query: "mappable:1 scientificname:Aratinga leucophthalma" ; Times: 1
+	Query: "mappable:1 scientificname:Jacana jacana" ; Times: 1
+	Query: "genus:Estrilda class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena" ; Times: 1
+	Query: "specificepithet:ruber genus:Phaethornis" ; Times: 2
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "mappable:1 scientificname:Estrilda astrild" ; Times: 1
+	Query: "Pionopsitta pileata" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena" ; Times: 1
+	Query: "specificepithet:stenurus genus:Chlorostilbon" ; Times: 2
+	Query: "specificepithet:viridigaster genus:Amazilia" ; Times: 4
+	Query: "vntype:specimen genus:PIRANGA class:Aves country:&#34;BraSil&#34;" ; Times: 1
+	Query: "genus:Amazilia country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Sicalis flaveola" ; Times: 1
+	Query: "genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:iris genus:Coeligena country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:mellisugus genus:Chlorostilbon country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Ara chloropterus" ; Times: 1
+	Query: "mappable:1 scientificname:Elanoides forficatus" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis" ; Times: 2
+	Query: "vntype:specimen specificepithet:mirabilis genus:Loddigesia" ; Times: 1
+	Query: "genus:Anthracothorax prevostii country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Saltator similis" ; Times: 1
+	Query: "vntype:specimen genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "specificepithet:tobaci genus:Amazilia country:&#34;Venezuela&#34;" ; Times: 4
+	Query: "mappable:1 scientificname:Cacicus cela" ; Times: 1
+	Query: "genus:Ramphodon" ; Times: 1
+	Query: "specificepithet:anthophilus genus:Phaethornis" ; Times: 1
+	Query: "mappable:1 scientificname:Caracara plancus" ; Times: 1
+	Query: "vntype:specimen specificepithet:pectoralis genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:tzacatl genus:Amazilia country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "mappable:1 scientificname:Tyrannus savana" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorotica genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:nuna genus:Lesbia" ; Times: 1
+	Query: "specificepithet:amazilia genus:Amazilia country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:julie genus:Damophila country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Dendrocygna autumnalis" ; Times: 1
+	Query: "specificepithet:leadbeateri genus:Heliodoxa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:goudoti genus:Lepidopyga country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:goudoti genus:Lepidopyga country:&#34;Colombia&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Pyrrhura frontalis" ; Times: 1
+	Query: "vntype:specimen genus:Piranga class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:passer class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "specificepithet:augusti genus:Phaethornis country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:gouldii genus:Lophornis" ; Times: 1
+	Query: "mappable:1 scientificname:Primolius maracana" ; Times: 1
+	Query: "specificepithet:buffonii genus:Chalybura country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "specificepithet:grayi genus:Hylocharis" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 4
+	Query: "specificepithet:furcata genus:Thalurania country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Pygochelidon" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria coronata" ; Times: 1
+	Query: "mappable:1 scientificname:Paroaria dominicana" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena" ; Times: 4
+	Query: "specificepithet:alinae genus:Eriocnemis" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 1
+	Query: "mappable:1 scientificname:Columbina talpacoti" ; Times: 1
+	Query: "specificepithet:malaris genus:Phaethornis" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:macrocerca genus:Hylonympha" ; Times: 2
+	Query: "genus:Habia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Diopsittaca nobilis" ; Times: 1
+	Query: "genus:Pterophanes country:&#34;Colombia&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia country:&#34;Venezuela&#34;" ; Times: 4
+	Query: "specificepithet:herrani genus:Chalcostigma" ; Times: 2
+	Query: "specificepithet:poortmani genus:Chlorostilbon" ; Times: 1
+	Query: "vntype:specimen genus:sporagra class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:violacea genus:Euphonia class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:cyanifrons genus:Amazilia" ; Times: 2
+	Query: "Thraupis episcopus" ; Times: 1
+	Query: "hydropsalis torquata" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 2
+	Query: "specificepithet:buffonii genus:Chalybura country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:ruckeri genus:Threnetes country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:gibsoni genus:Chlorostilbon" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "specificepithet:malaris genus:Phaethornis country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Amazonetta brasiliensis" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena country:&#34;Colombia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 756 download events in this period)
+Total number of records downloaded: 41
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Unknown ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 3
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "Schiffornis turdina" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "cypseloides fumigatus" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+
+
+End of report.
