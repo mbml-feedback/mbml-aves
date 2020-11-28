@@ -1,0 +1,105 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 630
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: United Kingdom ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 6
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-04 ; Times: 2
+	Date: 2020-06-02 ; Times: 8
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 1
+	Date: 2020-06-10 ; Times: 18
+	Date: 2020-06-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blumenbachii order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "Thalurania watertonii vntype:specimen" ; Times: 4
+	Query: "harpia" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "ameivula" ; Times: 1
+	Query: "genus:Orthogonys specificepithet:chloricterus" ; Times: 2
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 4
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "Thalurania watertonii" ; Times: 5
+	Query: "specificepithet:dohrnii genus:Glaucis" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "&#34;harpia&#34;" ; Times: 1
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 3
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:bouvreuil genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:leucoptera genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 474 download events in this period)
+Total number of records downloaded: 350
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Brazil ; Times: 22
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-10 ; Times: 25
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:blumenbachii order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Neopelma" ; Times: 1
+	Query: "specificepithet:minor genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Glaucis dohrnii" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "Myrmotherula minor" ; Times: 1
+	Query: "specificepithet:fusca genus:Florisuga" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "specificepithet:dohrnii genus:Glaucis" ; Times: 1
+	Query: "Chrysolampis Venezuela" ; Times: 1
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "specificepithet:obscura order:galliformes" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "Neopelma aurifrons" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+
+
+End of report.
