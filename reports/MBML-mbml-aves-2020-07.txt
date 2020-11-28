@@ -1,0 +1,108 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 664
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 21
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 6
+	Country: Malaysia ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-16 ; Times: 7
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-14 ; Times: 12
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Secanquim guatemala" ; Times: 1
+	Query: "vntype:specimen genus:oryzoborus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Pulsatrix koeniswaldiana" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "tachycineta leucorrhoa" ; Times: 1
+	Query: "megaceryle torquata" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Sporophila class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Poospiza class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Sporophila maximiliani" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "tachycineta albiventer" ; Times: 1
+	Query: "Bahia Brasil" ; Times: 1
+	Query: "gato" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "Lagoa Juparaña" ; Times: 2
+	Query: "genus:machetornis" ; Times: 3
+	Query: "vntype:specimen genus:emberizoides class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Jaguar" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "vntype:specimen genus:Thlypopsis class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;Venezuela&#34; institutioncode:MBML" ; Times: 1
+	Query: "providencia brazil" ; Times: 1
+	Query: "Bocá brasil" ; Times: 1
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "myrmeciza ruficauda" ; Times: 1
+	Query: "Megascops atricapilla" ; Times: 5
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricollis genus:saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Barbacoas colombia" ; Times: 1
+	Query: "mana" ; Times: 1
+	Query: "vntype:specimen specificepithet:maximus genus:Saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:saltator class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 940 download events in this period)
+Total number of records downloaded: 163
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "estrilda astrild" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "vntype:specimen country:&#34;Venezuela&#34; institutioncode:MBML" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+
+
+End of report.
