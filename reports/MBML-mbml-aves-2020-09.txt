@@ -1,0 +1,154 @@
+Report for Institution Code MBML, Resource mbml-aves
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 130
+Number of records retrieved in searches: 1173
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 112
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Denmark ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-15 ; Times: 3
+	Date: 2020-09-16 ; Times: 59
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-29 ; Times: 2
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-07 ; Times: 3
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-18 ; Times: 7
+	Date: 2020-09-30 ; Times: 5
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-02 ; Times: 17
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-25 ; Times: 10
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crax blumenbachii" ; Times: 42
+	Query: "anthus lutescens" ; Times: 1
+	Query: "vntype:specimen genus:Rhynchotus class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "Sporophila lineola" ; Times: 22
+	Query: "catalognumber:6869 institutioncode:MBML" ; Times: 1
+	Query: "Anhima year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 5
+	Query: "vntype:specimen specificepithet:solitarius genus:Tinamus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Phaethornis philippii" ; Times: 1
+	Query: "scientificname:Thalassinus Colibri" ; Times: 1
+	Query: "specificepithet:parvirostris genus:Crypturellus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:obsoletus genus:Crypturellus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Phaethornis nattereri" ; Times: 1
+	Query: "vntype:specimen genus:Anhima class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "vntype:specimen genus:Amazonetta class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "Threnetes niger" ; Times: 1
+	Query: "Amazilia cyanifrons" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "vntype:specimen genus:Aratinga class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "specificepithet:notatus genus:Chlorestes" ; Times: 1
+	Query: "vntype:specimen specificepithet:variegatus genus:Crypturellus class:Aves country:&#34;Brasil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Cairina class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "scientificname:Furnarius rufus" ; Times: 2
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagus genus:Crypturellus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "genus:Tinamus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:soui genus:Crypturellus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "Phaethornis rupurumii" ; Times: 1
+	Query: "vntype:specimen specificepithet:tataupa genus:Crypturellus class:Aves country:&#34;Brasil&#34;" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "synallaxis spixi" ; Times: 1
+	Query: "specificepithet:viduata genus:dendrocygna class:Aves country:&#34;brasil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:viduata genus:dendrocygna class:Aves country:&#34;brasil&#34;" ; Times: 1
+	Query: "mata atlantica" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:dendrocygna class:Aves country:&#34;brasil&#34;" ; Times: 3
+	Query: "Sterna hirundinacea" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "scientificname:Thalassinus colibri" ; Times: 5
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "vntype:specimen genus:Anas class:Aves country:&#34;Brasil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 976 download events in this period)
+Total number of records downloaded: 356
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 4
+	Country: Ecuador ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-11 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 23
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crax blumenbachii" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "Phaethornis nattereri" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Lophornis gouldii" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "Augastes lumachella" ; Times: 1
+	Query: "Threnetes niger" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Phaethornis philippii" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Phaethornis rupurumii" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 2
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "genus:Hylophilus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+
+
+End of report.
